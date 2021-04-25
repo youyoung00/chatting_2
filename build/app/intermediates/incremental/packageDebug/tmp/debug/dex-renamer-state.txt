@@ -1,0 +1,4 @@
+#Wed Mar 31 10:42:59 KST 2021
+base.0=/Users/shinhwanyoo/AndroidStudioProjects/flutter_chatting2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
